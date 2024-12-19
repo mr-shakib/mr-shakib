@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://mr-shakib.github.io/portfolio/](https://mr-shakib.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://mr-shakib.github.io/portfolio/](https://github.com/mr-shakib)
 
 - 📫 How to reach me **contactshakibhere@gmail.com**
 
