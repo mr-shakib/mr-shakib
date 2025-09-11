@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-### 🌟 Personal / University Projects
+### 🌟 Development Projects
 
 <details>
 <summary><b>🚍 DIU BusBuddy</b> - Flutter app for bus scheduling at DIU</summary>
@@ -213,11 +213,16 @@
 ## 🏆 Competitive Programming & Problem Solving
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  <a href="https://codeforces.com/profile/mr-shakib" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-mr--shakib-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/shakibhere/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mr--shakib-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
 </div>
 
-- 🔥 **Active on Codeforces** (currently rating ~888, goal: 1800+)
+
+- 🔥 **Active on Codeforces** (currently rating ~1013, goal: 1800+)
 - 💪 **LeetCode practice** (maintaining streaks & solving DSA problems)
 - 📈 **Working on** daily DSA + CF practice plan (16 weeks roadmap)
 
@@ -260,7 +265,9 @@ mindmap
 
 👨‍💻 **Software Engineer Intern @ Techjays** (Current)
 
-🎖️ Recognition: **Best Ownership Award** (previous internship)
+📄 **Published research paper** — Data in Brief, DOI: [10.1016/j.dib.2025.111353](https://doi.org/10.1016/j.dib.2025.111353)
+
+🎖️ Recognition: **Best Ownership Award** (internship contribution)
 
 👨‍💼 **Completed 6-month Internship** at *International Affairs, DIU* (Graphics & Video Editing)
 
