@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Shakib Howlader
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%26+Engineering+Student;Flutter+Developer;AI/ML+Enthusiast;Founder+of+BitStream;Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=1000&height=50&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+%26+Engineer;Flutter+Developer;AI/ML+Enthusiast;Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=1000&height=50&color=36BCF7&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 **Final-year Computer Science & Engineering student** at Daffodil International University (DIU)
+🎓 **Software Engineer**
 
 💡 **Passionate about** software development, AI/ML, computer vision, and problem-solving
 
