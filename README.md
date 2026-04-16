@@ -263,7 +263,9 @@ mindmap
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="200" alt="Achievement"/>
 </div>
 
-👨‍💻 **Software Engineer Intern @ Techjays** (Current)
+👨‍💻 **Software Engineer @ Felxloop** (Current)
+
+👨‍💻 **Software Engineer Intern @ Techjays** 
 
 📄 **Published research paper** — Data in Brief, DOI: [10.1016/j.dib.2025.111353](https://doi.org/10.1016/j.dib.2025.111353)
 
