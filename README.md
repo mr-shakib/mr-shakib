@@ -31,9 +31,9 @@
 ## 🚀 About Me
 
 ```yaml
-name: Your Name
-role: Software Developer
-location: Your City, Country
+name: Shakib Howlader
+role: Software Engineer
+location: Dhaka, Bangladesh
 currently_working_on: Something exciting
 currently_learning: A new framework or language
 ask_me_about: Web Dev, Open Source, System Design
