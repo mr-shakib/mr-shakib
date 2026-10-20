@@ -23,10 +23,10 @@ I build Flutter apps, full-stack platforms and AI tools, and publish research in
 
 ## About Me
 
-- 🔬 **Research Assistant at DIU** on an ADB-funded project (ICSETEP Research and Development Grant). I build AI-based, post-quantum-cryptography-enabled tools that identify counterfeit medicine in Bangladesh.
+- 🔬 **Research Assistant at DIU** on an ADB-funded project (ICSETEP Research and Development Grant). I build AI-based, post-quantum-cryptography-enabled tools that identify counterfeit medicine in Bangladesh ([live](https://anticounterfeitmed.com)).
 - 💼 **Software Engineer at Flexloop**. Previously a Flutter intern at **Techjays**, where I received the Best Ownership Award.
 - 🧠 **Research interests:** trustworthy multimodal AI, computer vision and NLP. I'm first author of a paper in *Data in Brief* (Elsevier).
-- 🚀 **Founder of BitStream**, my first startup.
+- 🚀 **Founder of [BitStream](https://github.com/bitstreamofficial)**, my first startup.
 - 🎓 **CSE graduate, Daffodil International University (DIU)**, CGPA 3.92. I also build free tools for DIU students, like [Open Routine](https://github.com/mr-shakib/open-routine).
 - 📍 Based in **Dhaka, Bangladesh**.
 
@@ -34,13 +34,19 @@ I build Flutter apps, full-stack platforms and AI tools, and publish research in
 
 ## Featured Projects
 
+🔒 = private code (work, client or department projects)
+
 | Project | What it does | Built with |
 |---|---|---|
+| **MedSecure PQC** · [live](https://anticounterfeitmed.com) · [docs](https://github.com/mr-shakib/anticounterfeitmed) | My ADB-funded research project at DIU, using AI and post-quantum cryptography against counterfeit medicine in Bangladesh. Each pack carries a hidden QR code backed by a post-quantum-signed record that buyers check with their phone. | Next.js · Python · ML-DSA (FIPS 204) |
+| **ClassTrack** 🔒 | Class monitoring for DIU's CSE department. It reads the routine PDF, tracks whether each class actually takes place, and manages late arrivals, missed classes and makeup scheduling. | FastAPI · Next.js · Flutter · Docker |
+| **Aesthetica** 🔒 · [live](https://aesthetica-hms.vercel.app) | Clinic management system for a skin and aesthetic clinic in Dhaka: appointments, patient records, consultations, prescriptions, billing and pharmacy, with role-based access and an audit trail. | Next.js · FastAPI · PostgreSQL |
+| **[UniRide](https://github.com/asterisks-official/uniride_v2_backend)** · [app](https://github.com/asterisks-official/uniride_v2_app) · [admin](https://github.com/asterisks-official/uniride_v2_admin) | Ride-sharing platform for university students: a Flutter app, a real-time backend and an admin dashboard. | Flutter · NestJS · PostgreSQL · Redis · Socket.IO |
+| **PetSocial** 🔒 at Flexloop | Social platform for pet lovers. I build the Flutter mobile app with the Flexloop team. | Flutter · Riverpod · Firebase |
 | **[TripScope](https://github.com/mr-shakib/TripScope)** | Big-data analytics for NYC taxi trip records: 24.1M trips through a batch pipeline, dashboards, a taxi-zone map, PDF/Excel reports, and an AI analyst whose every figure is checked against the data. | PySpark · S3 · ClickHouse · FastAPI · Next.js |
 | **[CR Shop Backend](https://github.com/mr-shakib/cheering-shop-backend)** | Food-delivery backend with 105 API routes for customers, vendors, riders and admins, plus a React admin console. | FastAPI · PostgreSQL + PostGIS · Redis · arq |
 | **[Open Routine](https://github.com/mr-shakib/open-routine)** | Offline-first class routine app for DIU. Type your batch (e.g. `60_C`) and your week appears, with no account needed. Also finds empty rooms and teacher schedules. | Flutter · Dart |
 | **[GeoInsight](https://github.com/mr-shakib/geoinsight)** · [live](https://geoinsight-smoky.vercel.app) | Real-time fleet dashboard tracking 100+ vehicles across Dhaka, built without any paid map API. | Next.js · MapLibre GL · Socket.io |
-| **[Building Control](https://github.com/mr-shakib/automation)** | Tenant billing for an ESP32 relay controller: cuts power to flats with overdue bills and restores it the moment they pay. | ESP32 · Node.js · SQLite · Docker |
 | **[ASL-to-Voice](https://github.com/mr-shakib/ASL-to-Voice)** | Real-time American Sign Language alphabet detection that assembles signs into words and speaks them aloud. | YOLOv8 · Python · Text-to-Speech |
 
 ---
@@ -52,10 +58,13 @@ I build Flutter apps, full-stack platforms and AI tools, and publish research in
 - **[Lore](https://github.com/mr-shakib/lore)** · [live](https://loremem.vercel.app): captures human corrections of AI output and feeds them back into future prompts.
 - **[TruthChain](https://github.com/mr-shakib/truthchain)**: validates LLM outputs against business rules before they reach users, with a Python SDK.
 - **[RepoLense AI](https://github.com/mr-shakib/repolense)** · [live](https://repolense.vercel.app): analyzes a GitHub repository's architecture and code quality.
+- **[ImmigrationBot](https://github.com/mr-shakib/ai-engineering-projects/tree/main/projects/gov-services-rag)**: voice-enabled RAG assistant over 467 USCIS documents that cites its sources.
 - **[Ain Sahayak](https://github.com/mr-shakib/ain-sahayak)**: AI legal assistant for Bangladesh.
 - **[AI Engineering Projects](https://github.com/mr-shakib/ai-engineering-projects)**: LLM, RAG and embedding projects in one monorepo.
 
-**Web platforms**
+**Web & IoT**
+
+- **[Building Control](https://github.com/mr-shakib/automation)**: tenant billing for an ESP32 relay controller. It cuts power to flats with overdue bills and restores it the moment they pay.
 
 - **[Obelytics](https://github.com/mr-shakib/obelytics)** · [live](https://obelytics.vercel.app): outcome-based education (OBE) accreditation management.
 - **[RPLMS](https://github.com/mr-shakib/RPLMS)** · [live](https://rplms.vercel.app): manages the full lifecycle of academic research papers.
@@ -90,7 +99,7 @@ I build Flutter apps, full-stack platforms and AI tools, and publish research in
 
 - 🔬 **Current: AI & post-quantum cryptography for counterfeit medicine identification.**
   Research Assistant under the ICSETEP Research and Development Grant at DIU, funded by the Asian Development Bank and the Government of Bangladesh.
-  [Project repo](https://github.com/mr-shakib/anticounterfeitmed)
+  [Live site](https://anticounterfeitmed.com) · [Project repo](https://github.com/mr-shakib/anticounterfeitmed)
 - 📄 **A comprehensive image dataset for the identification of eggplant leaf diseases and computer vision applications**<br/>
   **S. Howlader**, M. S. Ahamed, M. U. Mojumdar, S. R. H. Noori, S. M. T. Siddiquee, N. R. Chakraborty. *Data in Brief* 59 (2025), Elsevier.
   [doi:10.1016/j.dib.2025.111353](https://doi.org/10.1016/j.dib.2025.111353)
